@@ -1,4 +1,4 @@
-# example ingredients array
+\# example ingredients array
 ingredients = [
     ["rye", "sourdough", "baguette"],
     ["ham", "salami", "turkey"],
